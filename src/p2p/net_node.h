@@ -127,10 +127,8 @@ namespace nodetool
     virtual std::map<std::string, time_t> get_blocked_hosts() { CRITICAL_REGION_LOCAL(m_blocked_hosts_lock); return m_blocked_hosts; }
   private:
     const std::vector<std::string> m_seed_nodes_list =
-    { "35.172.131.32"
-    , "35.172.8.34"
-    
-    };
+    { "35.200.146.125 "
+    , "35.187.232.16"  };
 
     bool islimitup=false;
     bool islimitdown=false;
@@ -265,7 +263,7 @@ namespace nodetool
       uint64_t m_peer_id;
       uint32_t m_support_flags;
 
-      BEGIN_KV_SERIALIZE_MAP()
+      BEGIN_KV_SERIALIZE_MAP()        
         KV_SERIALIZE(m_net_config)
         KV_SERIALIZE(m_peer_id)
         KV_SERIALIZE(m_support_flags)
