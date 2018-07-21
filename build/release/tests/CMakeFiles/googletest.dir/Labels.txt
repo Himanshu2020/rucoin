@@ -1,0 +1,13 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/himan_bramh/rucoin/build/release/tests/CMakeFiles/googletest
+/home/himan_bramh/rucoin/build/release/tests/CMakeFiles/googletest.rule
+/home/himan_bramh/rucoin/build/release/tests/CMakeFiles/googletest-complete.rule
+/home/himan_bramh/rucoin/build/release/tests/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/himan_bramh/rucoin/build/release/tests/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/himan_bramh/rucoin/build/release/tests/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/himan_bramh/rucoin/build/release/tests/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/home/himan_bramh/rucoin/build/release/tests/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/himan_bramh/rucoin/build/release/tests/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/himan_bramh/rucoin/build/release/tests/googletest-prefix/src/googletest-stamp/googletest-build.rule

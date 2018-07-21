@@ -1,0 +1,13 @@
+# Target labels
+ generate_translations_header
+# Source files and their labels
+/home/himan_bramh/rucoin/build/release/CMakeFiles/generate_translations_header
+/home/himan_bramh/rucoin/build/release/CMakeFiles/generate_translations_header.rule
+/home/himan_bramh/rucoin/build/release/CMakeFiles/generate_translations_header-complete.rule
+/home/himan_bramh/rucoin/build/release/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-install.rule
+/home/himan_bramh/rucoin/build/release/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-mkdir.rule
+/home/himan_bramh/rucoin/build/release/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-download.rule
+/home/himan_bramh/rucoin/build/release/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-update.rule
+/home/himan_bramh/rucoin/build/release/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-patch.rule
+/home/himan_bramh/rucoin/build/release/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-configure.rule
+/home/himan_bramh/rucoin/build/release/generate_translations_header-prefix/src/generate_translations_header-stamp/generate_translations_header-build.rule

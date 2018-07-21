@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../src/version.h
+
+/home/himan_bramh/rucoin/build/release/version.cpp
+version.h
+/home/himan_bramh/rucoin/build/release/version.h
+
