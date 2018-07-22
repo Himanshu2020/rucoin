@@ -1,8 +1,0 @@
-/home/himan_bramh/rucoin/build/release/tests/gtest/CMakeFiles/install.dir
-/home/himan_bramh/rucoin/build/release/tests/gtest/CMakeFiles/list_install_components.dir
-/home/himan_bramh/rucoin/build/release/tests/gtest/CMakeFiles/edit_cache.dir
-/home/himan_bramh/rucoin/build/release/tests/gtest/CMakeFiles/rebuild_cache.dir
-/home/himan_bramh/rucoin/build/release/tests/gtest/CMakeFiles/gtest.dir
-/home/himan_bramh/rucoin/build/release/tests/gtest/CMakeFiles/gtest_main.dir
-/home/himan_bramh/rucoin/build/release/tests/gtest/CMakeFiles/install/strip.dir
-/home/himan_bramh/rucoin/build/release/tests/gtest/CMakeFiles/install/local.dir

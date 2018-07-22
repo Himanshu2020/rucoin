@@ -1,3 +1,0 @@
-/home/himan_bramh/rucoin/build/release/translations/CMakeFiles/edit_cache.dir
-/home/himan_bramh/rucoin/build/release/translations/CMakeFiles/rebuild_cache.dir
-/home/himan_bramh/rucoin/build/release/translations/CMakeFiles/generate_translations_header.dir
