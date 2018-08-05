@@ -10,14 +10,14 @@
 namespace WalletConfig
 {
     /* The prefix your coins address starts with */
-    const std::string addressPrefix = "PCC";
+    const std::string addressPrefix = "PCCC";
 
     /* Your coins 'Ticker', e.g. Monero = XMR, Bitcoin = BTC */
-    const std::string ticker = "PCC";
+    const std::string ticker = "PCCC";
 
     /* The filename to output the CSV to in save_csv */
     const std::string csvFilename = "transactions.csv";
-
+   
     /* The filename to read+write the address book to - consider starting with
        a leading '.' to make it hidden under mac+linux */
     const std::string addressBookFilename = ".addressBook.json";
